@@ -1,4 +1,4 @@
-# Whmcs-Mass-Client-Delete
+# Whmcs Mass Client Delete
 This script list and delete whmcs client with use whmcs remote api.
 
 
